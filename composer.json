@@ -26,10 +26,10 @@
         "phpunit/phpunit": "^8.0|^9.0|^10.0"
     },
     "repositories": [
-               {
+        {
             "type": "vcs",
             "url": "https://github.com/yabbasdev/laravel-oauth2-client"
-        },
+        }
     ],
     "autoload": {
         "psr-4": {
