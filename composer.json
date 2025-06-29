@@ -1,11 +1,11 @@
 {
-    "name": "macsidigital/laravel-api-client",
+    "name": "yabbasdev/laravel-api-client",
     "description": "Laravel API Client Builder package",
     "keywords": [
         "macsidigital",
         "laravel-api-client"
     ],
-    "homepage": "https://github.com/macsidigital/laravel-api-client",
+    "homepage": "https://github.com/yabbasdev/laravel-api-client",
     "license": "MIT",
     "type": "library",
     "authors": [{
